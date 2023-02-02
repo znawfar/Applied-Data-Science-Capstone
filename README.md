@@ -1,3 +1,3 @@
-# My-Applied-Data-Science-Capstone
+# My Applied Data Science Capstone
 ---------------------------------------------------------
 
